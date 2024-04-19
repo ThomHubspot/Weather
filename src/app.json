@@ -1,0 +1,15 @@
+{
+  "name": "Weather Card",
+  "description": "",
+  "scopes": ["contacts"],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "./weather-card.json"
+        }
+      ]
+    }
+  }
+}
